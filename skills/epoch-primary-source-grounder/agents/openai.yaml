@@ -1,0 +1,4 @@
+interface:
+  display_name: "Epoch Primary Source Grounder"
+  short_description: "Wikipedia + Wikisource + Internet Archive grounding for biographical VO."
+  default_prompt: "Use $epoch-primary-source-grounder to resolve a figure's canonical Wikipedia page, structured Wikidata facts, Wikisource works by the figure, and Internet Archive period biographies before drafting the six-scene VO."
